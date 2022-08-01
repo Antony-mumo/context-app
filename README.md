@@ -1,3 +1,3 @@
-# Context-app react
+# React Context-api Prototype sample
 
-Prototype project tutorial showing how react context-api functionality with [demo here](https://github.com/Antony-mumo/context-app.github.io).
+Prototype project illustration of react context-api functionality.With a live [demo here](https://context-app-umber.vercel.app/).
